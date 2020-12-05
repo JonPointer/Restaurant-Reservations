@@ -1,0 +1,16 @@
+/* style="background-image: url(Images/fire.jpg); color: darkorange" */
+
+.jumbotron {
+    background-image: url('Images/fire.jpg');
+};
+
+.jumbotron h1 {
+    font-family: 'Vollkorn', serif;
+    color: darkorange;  
+}
+h2 {
+    color: darkorange;
+    font-family: 'Raleway', sans-serif;
+}
+
+
